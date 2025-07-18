@@ -15,7 +15,8 @@ This repository contains the code, results, and analysis from the research proje
 To run this project locally, make sure you have **Python 3.8+** and install all required libraries using the `requirements.txt` file:
 
 ```bash
-pip install -r requirements.txt  
+pip install -r requirements.txt
+```
 
 In addition, to generate responses, you must have a valid DeepSeek API key. The key must be securely set in your environment before running the notebook.
 
