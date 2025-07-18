@@ -1,9 +1,37 @@
 # llm-cot-anxiety
-Causal Analysis of Chain-of-Thought Reasoning in LLM-Based Anxiety Detection, part of University of Iowa SSTP 2025 and in collaboration with University of Iowa's Department of Business Analytics. 
+
+**Causal Analysis of Chain-of-Thought Reasoning in LLM-Based Anxiety Detection**  
+Conducted as part of the University of Iowa's SSTP 2025, in collaboration with the Department of Business Analytics.
 
 # Interpretable LLM Reasoning for Mental Health Text Classification
 
-This repository contains code, results, and analysis for the SSTP research project exploring the interpretability of large language models (LLMs) in the context of mental health, specifically focusing on anxiety detection from Reddit posts.
+This repository contains the code, results, and analysis from the research projec on the interpretability of large language models (LLMs) in mental health applications, with a focus on anxiety classification from Reddit posts.
+
+**Author**: [Sophie Zhang] — SSTP 2025 Researcher, Shanghai High School International Division Class of 2026 
+
+## 📚 Background
+
+Large language models (LLMs) have shown strong performance in detecting mental health conditions using online text (Patil & Gedhu, 2025). One promising interpretability technique is **Chain-of-Thought (CoT) prompting**, which improves reasoning transparency and task accuracy, especially in larger models (Wei et al., 2022).  
+
+However, recent findings suggest that CoT outputs can be **unstable and sensitive** to minor prompt changes (Chatziveroglou et al., 2025).  # Interpretable LLM Reasoning for Mental Health Text Classification
+
+This repository contains code, results, and analysis for a summer research project exploring the interpretability of large language models (LLMs) in the context of mental health, specifically focusing on anxiety detection from Reddit posts.
+
+## 📚 Background
+
+Large language models (LLMs) have shown strong performance in detecting mental health conditions using online text (Patil & Gedhu, 2025). One promising interpretability technique is **Chain-of-Thought (CoT) prompting**, which improves reasoning transparency and task accuracy, especially in larger models (Wei et al., 2022).  
+
+However, recent findings suggest that CoT outputs can be **unstable and sensitive** to minor prompt changes (Chatziveroglou et al., 2025). This fragility challenges the safe and ethical deployment of LLMs in clinical or mental health applications, where interpretability and reliability are critical for trust and utility.
+
+## ❓ Research Question
+
+**Which steps in DeepSeek-V3’s Chain-of-Thought reasoning process can be causally linked to changes in its anxiety classification outcomes?**
+
+## 📌 Project Overview
+
+## ❓ Research Question
+
+**Which steps in DeepSeek-V3’s Chain-of-Thought reasoning process can be causally linked to changes in its anxiety classification outcomes?**
 
 ## 📌 Project Overview
 
