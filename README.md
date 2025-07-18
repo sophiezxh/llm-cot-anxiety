@@ -90,9 +90,6 @@ The dataset used in this project is private and **cannot be publicly shared** du
 
 I would like to thank the **SSTP Program** and the **University of Iowa Belin-Blank Center** for providing me with this invaluable research opportunity. I am especially grateful to **Dr. Weiguo (Patrick) Fan** and the **Business Analytics Lab** for their support and for granting access to the Reddit dataset used in this study. Finally, I would like to thank **Enos Hsiao** and **Angelina Wang** for their assistance in annotating the original dataset.
 
-
----
-
 ## 📚 References
 
 - Chatziveroglou, G., Yun, R., & Kelleher, M. (2025). *Exploring LLM Reasoning Through Controlled Prompt Variations*. [arXiv:2504.02111](https://doi.org/10.48550/arxiv.2504.02111)
