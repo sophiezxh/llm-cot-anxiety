@@ -32,12 +32,6 @@ However, recent findings suggest that CoT outputs can be **unstable and sensitiv
 
 ## 📌 Project Overview
 
-## ❓ Research Question
-
-**Which steps in DeepSeek-V3’s Chain-of-Thought reasoning process can be causally linked to changes in its anxiety classification outcomes?**
-
-## 📌 Project Overview
-
 We investigate how reasoning types and step positions in Chain-of-Thought (CoT) explanations affect the final predictions made by LLMs. Using a dataset of 5,000 Reddit posts from r/anxiety, we analyze which steps are most causally responsible for model predictions and test stability through ablation and counterfactual perturbations.
 
 ## 🔍 Key Findings
