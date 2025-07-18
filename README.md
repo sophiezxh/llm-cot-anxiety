@@ -10,6 +10,15 @@ This repository contains the code, results, and analysis from the research proje
 **Author**: Sophie Zhang — SSTP 2025 Researcher, Shanghai High School International Division Class of 2026   
 📧 Contact: szhang194@uiowa.edu
 
+## ⚙️ Project Setup
+
+To run this project locally, make sure you have **Python 3.8+** and install all required libraries using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+
+In addition, to generate responses, you must have a valid DeepSeek API key. The key must be securely set in your environment before running the notebook.
+
 ## 📚 Background
 
 Large language models (LLMs) have shown strong performance in detecting mental health conditions using online text (Patil & Gedhu, 2025). One promising interpretability technique is **Chain-of-Thought (CoT) prompting**, which improves reasoning transparency and task accuracy, especially in larger models (Wei et al., 2022).  
