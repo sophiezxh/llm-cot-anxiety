@@ -65,8 +65,8 @@ The study then computed flip rates across reasoning types and step positions to 
 
 - `notebook.ipynb` — Jupyter Notebook with full analysis pipeline
 - `ablation_results.csv` — Results from step deletion tests
-- `counterfactual_results.csv` — Replacement test outcomes
-- `reasoning_step_labels.csv` — Manual reasoning type labels
+- `counterfactual_ablation_full_results.csv` — Replacement test outcomes
+- `reasoning_step_labels_full.csv` — Manual reasoning type labels
 
 ## 🔮 Future Directions
 
