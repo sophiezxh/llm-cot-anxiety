@@ -7,7 +7,8 @@ Conducted as part of the University of Iowa's SSTP 2025, in collaboration with t
 
 This repository contains the code, results, and analysis from the research projec on the interpretability of large language models (LLMs) in mental health applications, with a focus on anxiety classification from Reddit posts.
 
-**Author**: [Sophie Zhang] — SSTP 2025 Researcher, Shanghai High School International Division Class of 2026 
+**Author**: Sophie Zhang — SSTP 2025 Researcher, Shanghai High School International Division Class of 2026 
+Contact information: szhang194@uiowa.edu
 
 ## 📚 Background
 
