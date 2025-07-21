@@ -18,7 +18,10 @@ To run this project locally, make sure you have **Python 3.8+** and install all 
 pip install -r requirements.txt
 ```
 
-In addition, to generate responses, you must have a valid DeepSeek API key. The key must be securely set in your environment before running the notebook.
+Due to privacy and ethical considerations, the original dataset of Reddit posts is not included in this repository. As a result, the full pipeline for generating predictions, ablations, and counterfactuals cannot be run.
+
+However, all analysis code and result files (*.csv) are included. This allows you to fully explore, reproduce, and build upon the interpretability analysis, key findings, and visualizations.
+
 
 ## 📚 Background
 
@@ -67,6 +70,20 @@ The study then computed flip rates across reasoning types and step positions to 
 - `ablation_results.csv` — Results from step deletion tests
 - `counterfactual_ablation_full_results.csv` — Replacement test outcomes
 - `reasoning_step_labels_full.csv` — Manual reasoning type labels
+
+## 🚫 Limitations for Reproducibility
+
+This repository does not include the raw Reddit dataset used for classification due to ethical and privacy restrictions. As a result, the following parts of the code will **not run** without access to the private data:
+
+- Chain-of-Thought generation using DeepSeek
+- Step-by-step counterfactual generation
+- Raw prediction and ablation experiments
+
+However, the following are fully available and reproducible:
+
+- All result CSVs (`ablation_results.csv`, `counterfactual_ablation_full_results.csv`, etc.)
+- Causal and statistical analysis of reasoning types
+- Visualizations and summary statistics
 
 ## 🔮 Future Directions
 
