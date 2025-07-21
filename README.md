@@ -3,7 +3,7 @@
 **Causal Analysis of Chain-of-Thought Reasoning in LLM-Based Anxiety Detection**  
 Conducted as part of the University of Iowa's SSTP 2025, in collaboration with the Department of Business Analytics.
 
-# Interpretable LLM Reasoning for Mental Health Text Classification
+## 🧠 Interpretable LLM Reasoning for Mental Health Text Classification
 
 This repository contains the code, results, and analysis from the research projec on the interpretability of large language models (LLMs) in mental health applications, with a focus on anxiety classification from Reddit posts.
 
