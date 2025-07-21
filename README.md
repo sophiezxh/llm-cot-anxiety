@@ -18,10 +18,7 @@ To run this project locally, make sure you have **Python 3.8+** and install all 
 pip install -r requirements.txt
 ```
 
-Due to privacy and ethical considerations, the original dataset of Reddit posts is not included in this repository. As a result, the full pipeline for generating predictions, ablations, and counterfactuals cannot be run.
-
-However, all analysis code and result files (*.csv) are included. This allows you to fully explore, reproduce, and build upon the interpretability analysis, key findings, and visualizations.
-
+Due to ethical and privacy restrictions, this repository does not include the raw Reddit dataset. See the [Limitations](#-limitations-for-reproducibility) section for details.
 
 ## 📚 Background
 
